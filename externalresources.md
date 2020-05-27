@@ -25,6 +25,7 @@ permalink: /external/
 - [Introduction To Trusted Computing by Ariel Segall](http://opensecuritytraining.info/IntroToTrustedComputing.html) [Videos](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kBgdLhorJD6BR66D5kGoUV)
 
 # Tutorials
+- [TPM2 Tools Tutorial](https://github.com/nokia/TPMCourse)
 - [Interative Tutorial](https://google.github.io/tpm-js/)
 
 # Books
